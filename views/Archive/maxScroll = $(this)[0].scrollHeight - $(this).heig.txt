@@ -1,0 +1,2 @@
+maxScroll = $(this)[0].scrollHeight - $(this).height()
+currScroll = $(this)[0].scrollTop
